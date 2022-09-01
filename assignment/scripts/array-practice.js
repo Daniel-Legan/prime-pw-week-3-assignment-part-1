@@ -105,5 +105,5 @@ console.log(favoriteFoods.join(' and '));
 //     Then log the new array.
 //     It should look something like:
 //     ['pizza', 'pasta', 'fish', 'cat', 'bird', 'dog']
-let newArray = favoriteFoods.concat(animalArray)
+let newArray = favoriteFoods.concat(animalArray);
 console.log(newArray);
